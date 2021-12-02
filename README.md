@@ -1,34 +1,5 @@
-# Foobar
+### Hi there 👋, My name is Sourab Ahmed
+#### I am a web developer
+While studying a book in mid-2020, I was introduced to programming. I have always been curious about Software development after reading this book. Since being introduced to programming I have read as many materials as can possibly go through, taken courses, and created some applications.
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Skills: / REACT / JS / HTML / CSS/ BOOTSTRAP/ NODE/ EXPRESS
