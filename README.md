@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js, Node js, Express js**
 
-- 👨‍💻 All of my projects are available at [https://sourab-ahmed.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR2GEBjnfJpaXLHybLZ6YeUkgZx7AAhlra9-oNvSFg3hbTlnGcmTI3INXVE_aem_ZmFrZWR1bW15MTZieXRlcw](https://sourab-ahmed.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR2GEBjnfJpaXLHybLZ6YeUkgZx7AAhlra9-oNvSFg3hbTlnGcmTI3INXVE_aem_ZmFrZWR1bW15MTZieXRlcw)
+- 👨‍💻 All of my projects are available at https://sourab-ahmed.netlify.app/
 
 - 📫 How to reach me **sourabahmed546@gmail.com**
 
